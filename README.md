@@ -10,7 +10,7 @@ The page contains a structured layout with a container and multiple `div` elemen
 
 Check out the live version of the project: [Live Demo](https://mehmetalbyrak.github.io/jsDomManipulation/)
 
-## Project Structure
+## Project Files Overview
 
 - **index.html**: Defines the HTML structure of the page.
 - **style.css**: Handles the styling and responsive layout of the elements.
