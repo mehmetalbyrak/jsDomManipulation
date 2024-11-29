@@ -1,10 +1,14 @@
-# Dynamic DOM Manipulation Project
+# Dynamic DOM Manipulation
 
 This project demonstrates the use of HTML, CSS, and JavaScript to create a dynamic and interactive web page. The core functionality involves manipulating the DOM to update element styles (background and text colors) dynamically each time the page is refreshed.
 
 ## Overview
 
 The page contains a structured layout with a container and multiple `div` elements. Using JavaScript, the project applies randomly generated colors to the container and its child elements, showcasing the power of DOM manipulation. This project is simple, responsive, and cross-browser compatible.
+
+## Live Demo
+
+Check out the live version of the project: [Live Demo](https://mehmetalbyrak.github.io/jsDomManipulation/)
 
 ## Project Structure
 
